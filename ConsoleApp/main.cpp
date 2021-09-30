@@ -1,4 +1,5 @@
-﻿// main.cpp
+//Billy Jean Baptiste
+// main.cpp
 #include "pch.h"
 
 using namespace winrt;
